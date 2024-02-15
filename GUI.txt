@@ -1,0 +1,33 @@
+Literature survey on GUI (Graphical User Interface)
+
+1. "The Humane Interface: New Directions for Designing Interactive Systems" by Jef Raskin
+   - This book introduces fundamental principles and approaches for designing user-friendly interfaces, emphasizing simplicity, efficiency, and intuitiveness. It explores concepts such as modelessness, direct manipulation, and incremental feedback.
+
+2. "Designing Interfaces: Patterns for Effective Interaction Design" by Jenifer Tidwell
+   - Focusing on interface design patterns, this book offers a collection of reusable solutions for common GUI design problems. It covers patterns for navigation, input controls, layout, data display, and social interaction.
+
+3. "GUI Bloopers: Don'ts and Do's for Software Developers and Web Designers" by Jeff Johnson
+   - Jeff Johnson identifies common mistakes in GUI design and provides practical advice for avoiding them. The book covers topics such as consistency, error handling, responsiveness, and accessibility.
+
+4. "About Face: The Essentials of Interaction Design" by Alan Cooper, Robert Reimann, and David Cronin
+   - This comprehensive guide covers essential concepts and techniques in interaction design, including those specific to GUIs. It addresses user personas, task analysis, information architecture, and usability testing.
+
+5. "The Visual Display of Quantitative Information" by Edward Tufte
+   - Although primarily focused on data visualization, this book offers valuable insights into designing effective graphical displays within GUIs. It covers principles such as clarity, simplicity, and integrity in visual communication.
+
+6. "Universal Principles of Design" by William Lidwell, Kritina Holden, and Jill Butler
+   - This reference book presents 125 design principles applicable across various design disciplines, including GUI design. It covers principles such as visibility, feedback, constraints, consistency, and discoverability.
+
+7. "Don't Make Me Think" by Steve Krug
+   - Steve Krug discusses usability principles and techniques for designing intuitive interfaces. The book emphasizes simplicity, clarity, and minimizing cognitive load to enhance user experience.
+
+8. "GUI Design Handbook" by Susan L. Fowler
+   - This handbook provides practical guidance on GUI design principles, methodologies, and best practices. It covers topics such as user research, prototyping, visual design, and usability evaluation techniques.
+
+9. "Designing for Interaction: Creating Smart Applications and Clever Devices" by Dan Saffer
+   - Dan Saffer explores innovative approaches to interaction design, including GUIs for emerging technologies. The book covers topics such as gestural interfaces, tangible interactions, and designing for the Internet of Things.
+
+10. "Programming Windows" by Charles Petzold
+    - Although focused on Windows GUI development, this book offers valuable insights into GUI design principles and techniques. It covers topics such as window management, message handling, controls, and graphics programming.
+
+By reffering to these resources, we can gain a comprehensive understanding of GUI design principles, techniques, and best practices, enabling them to create user-friendly and effective graphical interfaces for various applications and platforms.
